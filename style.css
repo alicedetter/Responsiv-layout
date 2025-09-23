@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+}
+main{
+    display:grid;
+}
+header{
+    display:flex;
+    background: #c4c0c0;
+}
+footer{
+    display:flex;
+    background: #c4c0c0;
+}
